@@ -12,6 +12,6 @@ Develop a backend infrastructure for an E-commerce platform utilizing MySQL as t
 Install all modules found in packages.json
 
 ## Usage
-Video: https://drive.google.com/file/d/1H39NjXMbJzg-tFxZROgAFf7KTRjdCKuP/viewLinks to an external site.
-github link: https://github.com/KevLuck/E-commerceLinks to an external site.
+Video: https://drive.google.com/file/d/1Ua5Jkbg3IGMcGWoHDl52KjRpsd9HXDmf/view
+github link: https://github.com/KevLuck/E-commerce
 
